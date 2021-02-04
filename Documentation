@@ -1,6 +1,9 @@
-## Statistical Theory in Practice Notes
+## Statistical and ML Theory in Practice Notes
 
 # Curve Fitting
 Wikipedia: The process of constructing a curve, or mathematical function, that has the best fit to a series of data points possibly subject to constraints. https://en.wikipedia.org/wiki/Curve_fitting
 Example in R: https://davetang.org/muse/2013/05/09/on-curve-fitting/
 
+# Empirical Risk Minimization
+http://www.cs.cornell.edu/courses/cs4780/2017sp/lectures/lecturenote10.html
+Note: Explanation of different loss functions and regularizers
